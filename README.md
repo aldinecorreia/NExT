@@ -4,7 +4,8 @@ Olá, eu sou Aldine Correia, formada em Geologia pela Universidade Federal de Pe
 
 ## Curiosidades
 
-* Eu tenho uma tatuagem com o símbolo de Geologia
-* Sou apaixonada por cinema
-* Desde os 20 anos eu tenho CNH
-* Tenho uma moto
+* Curiosidade 1
+* Curiosidade 2
+* Curiosidade 3
+* Curiosidade 4
+* Curiosidade 5
