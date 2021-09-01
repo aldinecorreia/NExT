@@ -10,4 +10,4 @@ Olá, eu sou Aldine Correia, formada em Geologia pela Universidade Federal de Pe
 * Curiosidade 4
 * Curiosidade 5
  - Metade da feature de editar tweet
- 
+ - Fiz a outra metade
